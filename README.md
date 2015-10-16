@@ -1,2 +1,2 @@
-# elasticsearch-cluster-client
-a elasticsearch cluster client
+# Jersey
+Jersey Rest example
